@@ -1,0 +1,3 @@
+java BurrowsWheeler - < abra.txt | java MoveToFront - | java edu.princeton.cs.algs4.Huffman - > abra.txt.bwt.mtf.huf2
+java edu.princeton.cs.algs4.Huffman + < abra.txt.bwt.mtf.huf | java MoveToFront + | java BurrowsWheeler + 
+
